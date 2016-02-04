@@ -14,7 +14,7 @@
           fetch="git://android.git.linaro.org/"
           review="review.android.git.linaro.org" />
 
-  <remote name="github" fetch="http://github.com/96boards" />
+  <remote name="github" fetch="http://github.com/96boards-hikey" />
   <remote name="linaro-other" fetch="git://git.linaro.org/" />
   <!-- Linaro Device Configs -->
   <project path="device/linaro/hikey" name="android_device_linaro_hikey" revision="android-5.0" remote="github" groups="device,hikey" />
